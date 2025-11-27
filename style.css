@@ -1,0 +1,29 @@
+body {
+
+  font-family: Arial, sans-serif;
+
+}
+
+
+.center-image {
+
+  text-align: center;
+
+  margin: 20px 0;
+
+}
+
+.center-image img {
+   text-align :center;
+  width: 300px;
+
+}
+
+
+.small-img {
+    text-align :center;
+  width: 200px;
+
+  
+
+}
